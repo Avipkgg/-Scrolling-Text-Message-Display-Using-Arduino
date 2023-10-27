@@ -1,0 +1,6 @@
+1) Arduino UNO R3 
+2) DOT Matrix4 in 1 display
+3) Jumper wires
+
+2 Arduino libraries:   i] MD_MAX72XX 
+		      ii] MD_Parola
